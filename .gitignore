@@ -1,0 +1,10 @@
+.env
+session.json
+recruiters.csv
+email_sent_history.csv
+analytics_report.html
+scratch/*
+!scratch/.gitkeep
+__pycache__/
+*.pyc
+.venv/
